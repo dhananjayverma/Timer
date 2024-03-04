@@ -2,7 +2,7 @@
 
 This is a simple stopwatch application built using React. It allows users to start, pause, and reset the timer.
 
-## deploy link : <a href="">click here </a>
+## deploy link : <a href="https://nimble-cranachan-184cb6.netlify.app/">click here </a>
 
 
 ### StopwatchApp
